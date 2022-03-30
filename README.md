@@ -1,1 +1,1 @@
-This script excutes the current working directory
+This script describes the Shell basic projects which is based on executable files using chmod u+x
