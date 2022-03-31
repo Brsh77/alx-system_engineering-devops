@@ -6,3 +6,4 @@
 5-execute - adds execute permission to owner on hello
 6-multiple_permissions - writes multiple permissions on hello
 7-everybody - executable permission to everyone
+8-James_Bond - 007 permission to file hello
