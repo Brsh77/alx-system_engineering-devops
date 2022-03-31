@@ -10,3 +10,4 @@
 9-John_Doe - 753 permission to hello
 10-mirror_permissions - mirrors permission from olleh to hello
 11-directores.. - gives all subdirectories executable
+12-direct-ry... - creates files with mode 755
