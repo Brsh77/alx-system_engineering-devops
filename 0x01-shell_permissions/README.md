@@ -9,3 +9,4 @@
 8-James_Bond - 007 permission to file hello
 9-John_Doe - 753 permission to hello
 10-mirror_permissions - mirrors permission from olleh to hello
+11-directores.. - gives all subdirectories executable
